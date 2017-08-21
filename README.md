@@ -1,6 +1,6 @@
 # [Full Stack Developer](http://tajbist.com.np/)
 
-[Developer](http://tajbist.com.np/) is a one page freelancer portfolio theme for [My Blog](http://tajbist.com.np/) created by [Taj Bist](http://tajbist.com.np/). 
+[This](http://tajbist.com.np/) is a one page portfolio theme for [My Blog](http://tajbist.com.np/) created by [Taj Bist](http://tajbist.com.np/). 
 
 ## Preview
 
