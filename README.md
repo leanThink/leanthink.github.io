@@ -4,7 +4,11 @@
 
 ## Preview
 
+<<<<<<< HEAD
 [![ Preview](https://tajbitsa.github.io/img/Portifoli0.png)](http://tajbist.com.np/)
+=======
+[![ Preview](https://startbootstrap.com/assets/img/templates/freelancer.jpg)](http://tajbist.com.np/)
+>>>>>>> origin/master
 
  
  
